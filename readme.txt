@@ -1,2 +1,2 @@
-这里是git版本控制系统
-git is free software
+这里是git版本管理系统
+git is a free software
